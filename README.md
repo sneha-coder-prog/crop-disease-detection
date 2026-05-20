@@ -16,7 +16,9 @@ Dataset used: PlantVillage Dataset
 Classes used:
 
 Potato___healthy
+
 Potato___Early_blight
+
 Potato___Late_blight
 
 Disease classes are merged into a single Diseased class.
