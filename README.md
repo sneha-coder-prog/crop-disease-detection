@@ -4,8 +4,9 @@ AI-based crop disease detection system
 
 This project is a Deep Learning based Plant Disease Detection system built using TensorFlow and MobileNetV2. The model classifies potato plant leaf images into:
 
-Healthy
-Diseased
+- Healthy
+- 
+- Diseased
 
 The project also includes Grad-CAM visualization for model explainability.
 
