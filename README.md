@@ -23,32 +23,55 @@ Disease classes are merged into a single Diseased class.
 
 ## Technologies Used
 Python
+
 TensorFlow / Keras
+
 MobileNetV2
+
 OpenCV
+
 Albumentations
+
 NumPy
+
 Pandas
+
 Matplotlib
+
 Scikit-learn
-Features
+
+## Features
 Transfer Learning using MobileNetV2
+
 Data Augmentation
+
 Binary Classification
+
 Confusion Matrix & Classification Report
+
 Grad-CAM Visualization
+
 Early Stopping & Model Checkpointing
+
 Model Performance
-Metric	Score
+
+## Metric	Score
+
 Test Accuracy	99.69%
+
 Healthy F1-Score	99.83%
+
 Diseased F1-Score	97.87%
-Grad-CAM
+
+## Grad-CAM
 
 Grad-CAM is used to visualize infected regions of the leaf that influence the model prediction, improving interpretability of the system.
 
-Future Improvements
+## Future Improvements
 Multi-class disease detection
+
 Web application deployment
+
 Mobile integration
+
 Support for more plant species
